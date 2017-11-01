@@ -69,6 +69,12 @@
     <Compile Include="ComponentModels\ISolution.cs" />
     <Compile Include="ComponentModels\MOOSolution.cs" />
     <Compile Include="Constants.cs" />
+    <Compile Include="ContinuousAlgorithms\CAEP.cs" />
+    <Compile Include="ContinuousAlgorithms\ExtremalOptimization.cs" />
+    <Compile Include="ContinuousAlgorithms\HarmonySearch.cs" />
+    <Compile Include="ContinuousAlgorithms\KnowledgeBase.cs" />
+    <Compile Include="ContinuousAlgorithms\SimulatedAnnealing.cs" />
+    <Compile Include="ContinuousAlgorithms\StochasticHillClimber.cs" />
     <Compile Include="ContinuousSolution.cs" />
     <Compile Include="ContinuousSolver.cs" />
     <Compile Include="DistributionModel.cs" />
