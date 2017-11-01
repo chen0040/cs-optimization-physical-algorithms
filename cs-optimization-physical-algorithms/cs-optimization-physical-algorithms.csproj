@@ -55,6 +55,10 @@
     <Compile Include="AlgorithmModels\Survival\SurvivalInstruction_Probablistic.cs" />
     <Compile Include="BaseSolution.cs" />
     <Compile Include="BaseSolver.cs" />
+    <Compile Include="BinaryAlgorithms\ExtremalOptimization.cs" />
+    <Compile Include="BinaryAlgorithms\HarmonySearch.cs" />
+    <Compile Include="BinaryAlgorithms\SimulatedAnnealing.cs" />
+    <Compile Include="BinaryAlgorithms\StochasticHillClimber.cs" />
     <Compile Include="BinarySolution.cs" />
     <Compile Include="BinarySolver.cs" />
     <Compile Include="ChiSquare.cs" />
